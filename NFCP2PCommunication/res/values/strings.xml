@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC P2P Communication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">NFC P2P Communication</string>
+    <string name="hint_message">Type a message to send</string>
+    <string name="title_activity_reading_writing">ReadingWritingActivity</string>
+    <string name="title_alert_dialog">What do you want to do with the tag?</string>
+    <string name="write_button_label">Write</string>
+    <string name="read_button_label">Read</string>
+
+</resources>
